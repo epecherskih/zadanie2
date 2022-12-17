@@ -1,5 +1,7 @@
+<div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
+
 # NeuroStartUp
-![background]
+
 ![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием 
@@ -24,3 +26,4 @@
   color: red;
 }
 ```
+</div>
